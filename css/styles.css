@@ -1,0 +1,84 @@
+.bg-img {
+	background: url("../img/venezuela1.jpg") no-repeat center center;
+	background-size: cover
+}
+
+h1{
+	font-family: "futura";
+	color: white;
+}
+
+.heading:hover {
+	color: blue;
+}
+
+
+}
+
+.Activities {
+	font-family: "futura";
+	color: pink;
+}
+
+.Search {
+	background-color: rgba(0,0,0,0);
+	border:none;
+	border-bottom: grey 1px solid;
+	font-family: "futura";
+	color: white;
+}
+
+.buscar {
+	font-family: "futura";
+	color: white;
+	}
+
+.buscar {
+font-family: "futura";
+color: white;
+	}
+
+.row1 {
+	margin-top: 60px;
+	color:white;
+	height: 6rem;
+	border-bottom: white 2px solid;
+}
+
+.row1 a {
+	color:white;
+	font-family: "futura";
+	font-size: 16px;
+}
+
+.row1 img {
+	max-height: 100%;
+	position: relative;
+	bottom:13px;
+}
+
+
+
+.music{
+	padding-left: 29px;
+
+}
+
+.test {
+	height: inherit;
+}
+
+.event{
+	padding-left: 7px;
+
+}
+
+.UCLU {
+	font-size: 60px;
+	color:white;
+	font-family: "futura";
+	margin-top: -21px;
+	}
+
+
+
