@@ -1,29 +1,40 @@
 .bg-img {
-	background: url("../img/venezuela1.jpg") no-repeat center center;
+	background: url("../img/roraima2.jpg") no-repeat center center;
 	background-size: cover
 }
 
 h1{
 	font-family: "futura";
 	color: white;
+	font-size: 30px;
 }
 
 .heading:hover {
-	color: blue;
+	color: yellow;
+	font-family: "futura";
 }
 
+.heading {
+	font-size: 85px;
+	color:white;
+	font-family: "futura";
+	position: relative;
+	bottom: 50px;
+	max-width: 80vw;
+	bottom:  102px;
+	left: 10vw;
 
 }
 
 .Activities {
 	font-family: "futura";
-	color: pink;
+	color: white;
 }
 
 .Search {
 	background-color: rgba(0,0,0,0);
 	border:none;
-	border-bottom: grey 1px solid;
+	border-bottom: white 1px solid;
 	font-family: "futura";
 	color: white;
 }
@@ -61,15 +72,17 @@ color: white;
 
 .music{
 	padding-left: 29px;
-
+	font-family: "futura";
 }
 
 .test {
-	height: inherit;
+	min-height: 100%;
+	font-family: "futura";
 }
 
 .event{
 	padding-left: 7px;
+	font-family: "futura";
 
 }
 
@@ -77,8 +90,49 @@ color: white;
 	font-size: 60px;
 	color:white;
 	font-family: "futura";
-	margin-top: -21px;
+	position: relative;
+	bottom: 70px;
+}
+
+.subheading {
+	position: relative;
+	bottom: 74px;
+	font-family: "futura";
+}
+
+
+.heading {
+	position: relative;
+	bottom: 70px;
+	font-family: "futura";
 	}
+
+.paragraph {
+	font-family: "futura";
+	position: relative;
+	bottom: -102px;
+	left:10.8vw;
+	color: rgb(240,240,240);
+	background-color: rgba(0,0,0,0.6);
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.info {
+	position: relative;
+	top:156px;
+}
+.info-wrapper {
+	max-width: 70vw;
+}
+
+
+
+
+
+
+
+
 
 
 
